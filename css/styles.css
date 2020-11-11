@@ -1,0 +1,23 @@
+table {
+    border-collapse: collapse;
+    color: black;
+    border: 1px solid black;
+    width: 100%;
+ }
+ thead, th {
+    border-bottom: 1px solid black;
+    border-top: 1px solid black;
+    background-color: aquamarine;
+    padding: 5px 0px;
+ }
+ .body01 td {
+     padding-left: 70px;
+     padding-right: 10px;
+ }
+ table tr {
+     padding-top: 10px;
+ }
+ .color {
+     color: red;
+     
+ }
